@@ -1,5 +1,4 @@
 # tuto_git
-j'apprend à utiliser git et github...
-
-Pour le moment tout roule!
-mais bien sur que tout roule!
+I'm learning Git and Github...
+So Far, so good!
+Of course everything is ok! this is simple stuff yet.
